@@ -1,0 +1,65 @@
+{
+    "name": "Web",
+    "values": [
+        {
+            "name": "App Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites"
+        },
+        {
+            "name": "API Management services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ApiManagement%2Fservice"
+        },
+        {
+            "name": "CDN profiles",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles"
+        },
+        {
+            "name": "Search services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Search%2FsearchServices"
+        },
+        {
+            "name": "Notification Hubs",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.NotificationHubs%2Fnamespaces%2FnotificationHubs"
+        },
+        {
+            "name": "Notification Hub Namespaces",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.NotificationHubs%2Fnamespaces"
+        },
+        {
+            "name": "App Service plans",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2FserverFarms"
+        },
+        {
+            "name": "App Service Environments",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2FHostingEnvironments"
+        },
+        {
+            "name": "App Service Certificates",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.CertificateRegistration%2FcertificateOrders"
+        },
+        {
+            "name": "App Service Domains",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DomainRegistration%2Fdomains"
+        },
+        {
+            "name": "Media Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/microsoft.media%2Fmediaservices"
+        },
+        {
+            "name": "Azure Spring Cloud",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AppPlatform%2FSpring"
+        },
+        {
+            "name": "API Connections",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fconnections"
+        },
+        {
+            "name": "Power Platform",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_PowerPlatform/PowerPlatformBlade"
+        },
+        {
+            "name": "SignalR",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.SignalRService%2FSignalR"
+        }
+    ]
+}

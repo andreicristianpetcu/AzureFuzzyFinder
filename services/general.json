@@ -1,0 +1,65 @@
+{
+    "name": "General",
+    "values": [
+        {
+            "name": "Management groups",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_ManagementGroups/HierarchyBlade"
+        },
+        {
+            "name": "Subscriptions",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade"
+        },
+        {
+            "name": "Resource groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
+        },
+        {
+            "name": "Marketplace",
+            "url": "https://portal.azure.com/"
+        },
+        {
+            "name": "Help + support",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview"
+        },
+        {
+            "name": "Service Health",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade/serviceIssues"
+        },
+        {
+            "name": "Templates",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Gallery%2Fmyareas%2Fgalleryitems"
+        },
+        {
+            "name": "Tags",
+            "url": "https://portal.azure.com/#blade/HubsExtension/TagsBlade"
+        },
+        {
+            "name": "What's new",
+            "url": "https://portal.azure.com/#blade/HubsExtension/WhatsNewBlade"
+        },
+        {
+            "name": "Quickstart Center",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartCenterBlade"
+        },
+        {
+            "name": "Shared dashboards",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Portal%2Fdashboards"
+        },
+        {
+            "name": "Free services",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Billing/FreeServicesBlade"
+        },
+        {
+            "name": "Reservations",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade"
+        },
+        {
+            "name": "Resource Explorer",
+            "url": "https://portal.azure.com/#blade/HubsExtension/ArmExplorerBlade"
+        },
+        {
+            "name": "Preview features",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Resources/PreviewFeaturesBlade"
+        }
+    ]
+}

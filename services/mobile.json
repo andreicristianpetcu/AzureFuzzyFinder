@@ -1,0 +1,17 @@
+{
+    "name": "Mobile",
+    "values": [
+        {
+            "name": "App Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites"
+        },
+        {
+            "name": "Power Platform",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_PowerPlatform/PowerPlatformBlade"
+        },
+        {
+            "name": "Notification Hubs",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.NotificationHubs%2Fnamespaces%2FnotificationHubs"
+        }
+    ]
+}

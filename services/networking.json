@@ -1,0 +1,121 @@
+{
+    "name": "Networking",
+    "values": [
+        {
+            "name": "Virtual networks",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FvirtualNetworks"
+        },
+        {
+            "name": "Load balancers",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FLoadBalancers"
+        },
+        {
+            "name": "CDN profiles",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles"
+        },
+        {
+            "name": "ExpressRoute circuits",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FexpressRouteCircuits"
+        },
+        {
+            "name": "Network Watcher",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Network/NetworkWatcherMenuBlade/overview"
+        },
+        {
+            "name": "Network security groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FNetworkSecurityGroups"
+        },
+        {
+            "name": "Network interfaces",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2Fnetworkinterfaces"
+        },
+        {
+            "name": "Public IP addresses",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FPublicIpAddresses"
+        },
+        {
+            "name": "Public IP Prefixes",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FpublicIpPrefixes"
+        },
+        {
+            "name": "On-premises Data Gateways",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Web%2FconnectionGateways"
+        },
+        {
+            "name": "Route tables",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FrouteTables"
+        },
+        {
+            "name": "Route filters",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteFilters"
+        },
+        {
+            "name": "Application security groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FapplicationSecurityGroups"
+        },
+        {
+            "name": "DDoS protection plans",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FddosProtectionPlans"
+        },
+        {
+            "name": "Service endpoint policies",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FserviceEndpointPolicies"
+        },
+        {
+            "name": "Private DNS zones",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FprivateDnsZones"
+        },
+        {
+            "name": "Web Application Firewall policies (WAF)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FFrontDoorWebApplicationFirewallPolicies"
+        },
+        {
+            "name": "Private Link Center",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Network/PrivateLinkCenterBlade/overview"
+        },
+        {
+            "name": "Firewalls",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FazureFirewalls"
+        },
+        {
+            "name": "Firewall Policies",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FfirewallPolicies"
+        },
+        {
+            "name": "Virtual WANs",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FvirtualWans"
+        },
+        {
+            "name": "Bastions",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FbastionHosts"
+        },
+        {
+            "name": "DNS zones",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FdnsZones"
+        },
+        {
+            "name": "Traffic Manager profiles",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2Ftrafficmanagerprofiles"
+        },
+        {
+            "name": "Application gateways",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FapplicationGateways"
+        },
+        {
+            "name": "NAT gateways",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FnatGateways"
+        },
+        {
+            "name": "Front Doors",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2Ffrontdoors"
+        },
+        {
+            "name": "IP Groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Network%2FipGroups"
+        },
+        {
+            "name": "Firewall Manager",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_HybridNetworking/FirewallManagerMenuBlade/firewallManagerOverview"
+        }
+    ]
+}

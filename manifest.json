@@ -1,0 +1,33 @@
+{
+  "name": "AzureFuzzyFinder",
+  "description": "To use, type 'ff' and a part of the name of the Azure resource you want to open.",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/andreicristianpetcu/AzureFuzzyFinder",
+  "icons": {
+    "16": "icon-16.png",
+    "19": "icon-19.png",
+    "38": "icon-38.png",
+    "48": "icon-48.png",
+    "96": "icon-96.png",
+    "128": "icon-128.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "omnibox": {
+    "keyword": "ff"
+  },
+  "manifest_version": 2,
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "tabs",
+    "activeTab",
+    "history",
+    "bookmarks",
+    "identity",
+    "storage"
+  ]
+}

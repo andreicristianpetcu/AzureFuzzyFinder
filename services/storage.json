@@ -1,0 +1,65 @@
+{
+    "name": "Storage",
+    "values": [
+        {
+            "name": "Storage accounts",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts"
+        },
+        {
+            "name": "Storage accounts (classic)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ClassicStorage%2FStorageAccounts"
+        },
+        {
+            "name": "Recovery Services vaults",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.RecoveryServices%2Fvaults"
+        },
+        {
+            "name": "StorSimple Device Managers",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.StorSimple%2FManagers"
+        },
+        {
+            "name": "Data Lake Storage Gen1",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.DataLakeStore%2Faccounts"
+        },
+        {
+            "name": "Storage Explorer (preview)",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_Storage/StorageExplorerBlade"
+        },
+        {
+            "name": "StorSimple Data Managers",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.HybridData%2FdataManagers"
+        },
+        {
+            "name": "Storage Sync Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.StorageSync%2FstorageSyncServices"
+        },
+        {
+            "name": "Azure Stack Edge / Data Box Gateway",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DataBoxEdge%2FdataBoxEdgeDevices"
+        },
+        {
+            "name": "Data Box",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DataBox%2Fjobs"
+        },
+        {
+            "name": "Azure NetApp Files",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.NetApp%2FnetAppAccounts"
+        },
+        {
+            "name": "Data Shares",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DataShare%2Faccounts"
+        },
+        {
+            "name": "Data Share Invitations",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_DataShare/InvitationsBrowseBlade"
+        },
+        {
+            "name": "HPC caches",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.StorageCache%2Fcaches"
+        },
+        {
+            "name": "Import/export jobs",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ImportExport%2Fjobs"
+        }
+    ]
+}

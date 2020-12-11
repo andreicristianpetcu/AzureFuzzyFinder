@@ -1,0 +1,149 @@
+{
+    "name": "Compute",
+    "values": [
+        {
+            "name": "Disks",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2Fdisks"
+        },
+        {
+            "name": "Disks (classic)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ClassicStorage%2FstorageAccounts%2Fdisks"
+        },
+        {
+            "name": "Snapshots",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2Fsnapshots"
+        },
+        {
+            "name": "Images",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fimages"
+        },
+        {
+            "name": "Image definitions",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fgalleries%2Fimages"
+        },
+        {
+            "name": "Image versions",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fgalleries%2Fimages%2Fversions"
+        },
+        {
+            "name": "Shared image galleries",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fgalleries"
+        },
+        {
+            "name": "OS images (classic)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ClassicStorage%2FstorageAccounts%2Fosimages"
+        },
+        {
+            "name": "VM images (classic)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ClassicStorage%2FstorageAccounts%2Fvmimages"
+        },
+        {
+            "name": "Citrix Virtual Desktops Essentials",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Citrix.Services%2FXenDesktopEssentials"
+        },
+        {
+            "name": "Citrix Virtual Apps Essentials",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Citrix.Services%2FXenAppEssentials"
+        },
+        {
+            "name": "SAP HANA on Azure",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.HanaOnAzure%2FhanaInstances"
+        },
+        {
+            "name": "CloudSimple Virtual Machines",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.VMwareCloudSimple%2FvirtualMachines"
+        },
+        {
+            "name": "CloudSimple Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.VMwareCloudSimple%2FdedicatedCloudServices"
+        },
+        {
+            "name": "CloudSimple Nodes",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.VMwareCloudSimple%2FdedicatedCloudNodes"
+        },
+        {
+            "name": "Proximity placement groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FProximityPlacementGroups"
+        },
+        {
+            "name": "Hosts",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2Fhostgroups%2Fhosts"
+        },
+        {
+            "name": "Host groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fhostgroups"
+        },
+        {
+            "name": "Azure Spring Cloud",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AppPlatform%2FSpring"
+        },
+        {
+            "name": "Availability sets",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FavailabilitySets"
+        },
+        {
+            "name": "Virtual machines",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2FVirtualMachines"
+        },
+        {
+            "name": "Virtual machines",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ClassicCompute%2FVirtualMachines"
+        },
+        {
+            "name": "Virtual machine scale sets",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2FvirtualMachineScaleSets"
+        },
+        {
+            "name": "Function App",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp"
+        },
+        {
+            "name": "App Services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites"
+        },
+        {
+            "name": "Container instances",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups"
+        },
+        {
+            "name": "Batch accounts",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Batch%2FbatchAccounts"
+        },
+        {
+            "name": "Service Fabric clusters",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ServiceFabric%2Fclusters"
+        },
+        {
+            "name": "Mesh applications",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ServiceFabricMesh%2Fapplications"
+        },
+        {
+            "name": "Cloud services (classic)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/microsoft.classicCompute%2FdomainNames"
+        },
+        {
+            "name": "Kubernetes services",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerService%2FmanagedClusters"
+        },
+        {
+            "name": "Disk Encryption Sets",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FdiskEncryptionSets"
+        },
+        {
+            "name": "Maintenance Configurations",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Maintenance%2FmaintenanceConfigurations"
+        },
+        {
+            "name": "Workspaces",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DesktopVirtualization%2FWorkspaces"
+        },
+        {
+            "name": "Logic App (Preview)",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp%2Cworkflowapp"
+        },
+        {
+            "name": "Application groups",
+            "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.DesktopVirtualization%2FApplicationGroups"
+        }
+    ]
+}
